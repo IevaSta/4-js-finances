@@ -2,7 +2,7 @@
 
 ## Portfolio website project No.4
 
-HTML.
+HTML. JS. JSON. Cookies.
 
 Site published at: https://github.com/IevaSta/4-js-finances
 
